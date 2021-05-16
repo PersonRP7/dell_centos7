@@ -1,0 +1,3 @@
+1. Run gvim -v
+2. Copy after selecting text in visual mode (shift + v) "+y
+3. Copying only works if the current gvim instance is still open
