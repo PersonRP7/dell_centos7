@@ -1,0 +1,5 @@
+1. Install pymysql instead of mysqlclient
+2. Place(Before anything else in manage.py): 
+	import pymysql
+	pymysql.install_as_MySQLdb()
+
